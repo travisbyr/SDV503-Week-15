@@ -169,3 +169,5 @@ const c3 = increment()
 console.log('example increment', c1, c2, c3)
 
 //--------------------------------------------------------------------------------------------
+
+//for loop declare variables using integers from larget to smallest
